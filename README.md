@@ -16,6 +16,7 @@ Description:
 ### Temp Converter
 Description: 
 
+![TempConverter](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/TimeLine.png/raw=True)
 
 ## Term 2
 
