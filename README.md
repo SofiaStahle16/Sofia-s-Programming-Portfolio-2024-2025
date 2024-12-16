@@ -4,8 +4,8 @@
 Computer Programming 1 and
 Exploring Computer Science
 
-### TimeLine
-Description: 
+
+## Term 1
 
 ### Collision Detection
 Description: 
@@ -15,6 +15,9 @@ Description:
 
 ### Temp Converter
 Description: 
+
+
+## Term 2
 
 ### Calculator
 Description: 
