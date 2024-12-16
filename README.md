@@ -1,7 +1,7 @@
 # Programming 1 Portfolio | Sofia Stahle | 9645275@graniteschools.org
 
 ## Certifications:
-Computer Programming 1
+Computer Programming 1 and
 Exploring Computer Science
 
 ### TimeLine
