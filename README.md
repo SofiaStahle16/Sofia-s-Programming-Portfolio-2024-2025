@@ -12,6 +12,7 @@ Description:
 
 ### Etch A Sketch
 Description: 
+[Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/sketch_240923a.pde)
 
 ### Temp Converter
 Description: 
