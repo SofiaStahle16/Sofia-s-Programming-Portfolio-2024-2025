@@ -13,6 +13,7 @@ Description:
 ### Etch A Sketch
 Description: 
 [Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/sketch_240923a.pde)
+[Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/sketch_240923a.pde) 
 
 ### Temp Converter
 Description: 
@@ -27,6 +28,7 @@ Description:
 Description: 
 
 ![Calculator](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Calc.png?raw=true)
+
 
 ### SpaceGame
 Discription: solution for a collosion based space themed game.
