@@ -8,15 +8,18 @@ Exploring Computer Science
 ## Term 1
 
 ### Collision Detection
-Description: 
+Description: Detects when balls collide.
+
+[CollisionDetection](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/CollisionDetection.png?raw=true)
+[Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/colDet.pde)
 
 ### Etch A Sketch
-Description: 
-[Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/sketch_240923a.pde)
+Description: Drawing board, created with wsad and arrow keys.
+[EtchASketch](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Etch.png?raw=true)
 [Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/sketch_240923a.pde) 
 
 ### Temp Converter
-Description: 
+Description: Converts temperature from Celcius to Farenheit.
 
 ![TempConverter](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/TimeLine.png?raw=true)
 
@@ -25,13 +28,13 @@ Description:
 ## Term 2
 
 ### Calculator
-Description: 
+Description: Simple day to day calculator.
 
 ![Calculator](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Calc.png?raw=true)
 
 
 ### SpaceGame
-Discription: solution for a collosion based space themed game.
+Discription: solution for a collision based space themed game.
 
 ![SpaceGame](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/SpaceGame.png?raw=true)
 
