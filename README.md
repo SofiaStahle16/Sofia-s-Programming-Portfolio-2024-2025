@@ -10,12 +10,12 @@ Exploring Computer Science
 ### Collision Detection
 Description: Detects when balls collide.
 
-[CollisionDetection](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/CollisionDetection.png?raw=true)
+![CollisionDetection](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/CollisionDetection.png?raw=true)
 [Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/colDet.pde)
 
 ### Etch A Sketch
 Description: Drawing board, created with wsad and arrow keys.
-[EtchASketch](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Etch.png?raw=true)
+![EtchASketch](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Etch.png?raw=true)
 [Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/sketch_240923a.pde) 
 
 ### Temp Converter
