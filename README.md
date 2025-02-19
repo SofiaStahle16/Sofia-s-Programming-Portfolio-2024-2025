@@ -45,7 +45,7 @@ Discription: solution for a collision based space themed game.
 ### Shape Tester
 description: Calculates volume and surface area of shapes given the dimensions.
 
-![ShapeTester]()
+![ShapeTester](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/shapes.png?raw=true)
 
 [ShapeTester]()
 
