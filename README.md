@@ -3,6 +3,7 @@
 ## Certifications:
 Computer Programming 1 and
 Exploring Computer Science
+Computer Programming 2 Python
 
 
 ## Term 1
