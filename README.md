@@ -5,7 +5,9 @@ Computer Programming 1 and
 Exploring Computer Science
 and Computer Programming 2 Python
 
+![Programming1](https://github.com/user-attachments/assets/1e669b7d-85e9-4d56-838a-e71d5122bf81)
 ![Programmming2](https://github.com/user-attachments/assets/a10a0e4d-0eb1-4ce1-9f24-4cde30137ace)
+
 
 ## Term 1
 
