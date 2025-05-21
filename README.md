@@ -53,3 +53,9 @@ description: Calculates volume and surface area of shapes given the dimensions.
 
 [ShapeTester](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/raw/refs/heads/main/src/ShapeTester.py.zip)
 
+### Powerhop
+Description: This is the current code for a mock frogger game using python. It uses collision detection and has features like score and powerups.
+
+![PowerHop](https://github.com/SpaceCheetah322/PowerHop/blob/main/images/Start.gif?raw=true)
+[Power Hop Source Code](https://github.com/SpaceCheetah322/PowerHop/tree/main) 
+
