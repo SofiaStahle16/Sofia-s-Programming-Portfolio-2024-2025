@@ -1,0 +1,27 @@
+while True:
+    word = input("Inupt your word that you would like to convert to pigLatin:")
+    word = word.lower()
+    letters = list(word)
+    vowels = 'aeiou'
+    first_letter = letters[0]
+    x = True
+
+
+    if first_letter.isalpha() and first_letter in vowels:
+        letters.append("way")
+        translation = ''.join(letters)
+        print(translation)
+    
+    else:
+          vindex = min([word.find(v) for v in 
+          vowels if word.find(v) != -1], default = -1)
+          first_part = word[:vindex]
+          second_part = word[vindex:]
+          new_word = second_part + first_part
+          final = f"{new_word}ay"
+          print(final)
+    
+    restart = input("Do you want to start again? yes/no:")
+    if restart != "yes":
+        print("Thanks for translating with me!")
+        break
