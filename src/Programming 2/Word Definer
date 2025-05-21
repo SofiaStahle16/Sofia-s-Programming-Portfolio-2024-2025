@@ -1,0 +1,83 @@
+import random
+num = int(input("How many words would you like:"))
+x=0
+definitions = {
+    "anti": "against or opposed to",
+    "mis": "wrongly, badly",
+    "non": "not",
+    "over": "too much, excessive",
+    "de": "reverse, remove",
+    "dis": "apart, away",
+    "em": "cause to, put into",
+    "inter": "between",
+    "mid": "middle",
+    "semi": "half",
+    "pre": "before",
+    "re": "again",
+    "sub": "under, below",
+    "super": "above, over",
+    "ir": "not",
+    "trans": "across",
+    "un": "not, opposite of",
+    "under": "beneath, below",
+    "fore": "before",
+    "ambi": "both, on both sides",
+    "aqua": "water",
+    "aud": "hear, sound",
+    "bene": "good, well",
+    "cent": "hundred",
+    "circum": "around",
+    "counter": "opposite, against",
+    "dict": "speak, say",
+    "duct": "lead",
+    "fac": "make, do",
+    "form": "shape, structure",
+    "fort": "strong",
+    "fract": "break",
+    "ject": "throw",
+    "jud": "judge",
+    "mal": "bad, evil",
+    "marter": "martyr, sacrifice",
+    "mit": "send",
+    "mort": "death",
+    "multi": "many",
+    "able": "capable of, worthy of",
+    "ial": "pertaining to, related to",
+    "ed": "past tense, completed action",
+    "en": "to make or become",
+    "or": "one who",
+    "er": "one who performs an action",
+    "est": "the most",
+    "ful": "full of",
+    "ic": "having the characteristics of",
+    "ing": "present participle or action",
+    "ion": "action, process",
+    "ty": "state of, quality of",
+    "ative": "tending to, given to",
+    "less": "without",
+    "ly": "in the manner of",
+    "ment": "result of an action or process",
+    "ness": "state of being",
+    "es": "plural or possession",
+    "y": "characterized by",
+    "ous": "full of, possessing the qualities of"
+}
+while x< num:
+    
+    prefix = ["anti", "mis", "non", "over", "de", "dis", "em", "inter", "mid", "semi", "pre", "re", "sub", "super","ir", "trans", "un", "under","fore","non"]
+    suffix = ["able", "ial", "ed", "en", "or", "er", "est", "ful", "ic", "ing", "ion", "ty", "ative", "less", "ly", "ment", "ness", "'es", "y", "ous"]
+    word_root = ["ambi", "aqua", "aud", "bene", "cent", "circum", "counter", "dict", "duct", "fac", "form", "fort", "fract", "ject", "jud", "mal", "marter", "mit", "mort", "multi" ]
+
+
+    pre = random.randint(0,19)
+    suff = random.randint(0,19)
+    roo = random.randint(0,19)
+
+    word = prefix[pre]+word_root[roo]+suffix[suff]
+    print(f"Your word is: {word}")
+    prefix_def = definitions.get(prefix[pre], "No definition available")
+    suffix_def = definitions.get(suffix[suff], "No definition available")
+    root_def = definitions.get(word_root[roo], "No definition available")
+    sentence = (f"Definition: {prefix_def.capitalize()} {suffix_def} {root_def}.")
+    print(sentence)
+    x= x+1
