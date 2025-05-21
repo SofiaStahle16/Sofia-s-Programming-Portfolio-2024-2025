@@ -51,16 +51,20 @@ description: Calculates volume and surface area of shapes given the dimensions.
 
 ![ShapeTester](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/shapes.png?raw=true)
 
-[ShapeTester](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/raw/refs/heads/main/src/ShapeTester.py.zip)
+[ShapeTester Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/raw/refs/heads/main/src/ShapeTester.py.zip)
 
 ### Word Definer
 Description: This gives you a random word made out of roots, prefixes, and suffixes. It then combines the word and difines it using the word parts.
+
 ![WordDef](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Definer.png?raw=true)
+
 [WordDef Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/Programming%202/Word%20Definer)
 
 ### Pig Latin Converter
 Description: This code converts words into pig latin.
+
 ![PigConv](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/PigLatinConverter.png?raw=true)
+
 [Pig Latin Converter Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/Programming%202/Pig%20Latin%20Converter)
 
 ### Madlibs Group Project
@@ -68,11 +72,12 @@ Description: Madlib story where you input words and characters to get a funny st
 
 ![Madlib](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/images/Madlib.png?raw=true)
 
-[Madlib](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/Programming%202/MadLibs)
+[Madlib Source Code](https://github.com/SofiaStahle16/Sofia-s-Programming-Portfolio-2024-2025/blob/main/src/Programming%202/MadLibs)
 
 ### Powerhop Group Project
 Description: This is the current code for a mock frogger game using python. It uses collision detection and has features like score and powerups.
 
 ![PowerHop](https://github.com/SpaceCheetah322/PowerHop/blob/main/images/Start.gif?raw=true)
+
 [Power Hop Source Code](https://github.com/SpaceCheetah322/PowerHop/tree/main) 
 
